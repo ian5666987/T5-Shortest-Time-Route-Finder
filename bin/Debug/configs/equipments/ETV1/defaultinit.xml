@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ActInitialState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InitialX>60</InitialX>
+  <InitialZ>65</InitialZ>
+  <LeftActs>
+    <Act>
+      <No>1</No>
+      <PUPoint>67A15</PUPoint>
+      <DOPoint>12A15</DOPoint>
+      <PriorLevel>1</PriorLevel>
+      <ULDCat>A</ULDCat>
+    </Act>
+  </LeftActs>
+  <InitialDateTime>2020-06-23T17:18:22.699788+08:00</InitialDateTime>
+</ActInitialState>

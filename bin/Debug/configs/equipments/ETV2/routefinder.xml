@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RouteFinderSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SMethod>Tree_Search</SMethod>
+  <StartDepth>3</StartDepth>
+  <FinalDepth>18</FinalDepth>
+  <OldIterationBranch>50</OldIterationBranch>
+  <NewIterationBranch>100</NewIterationBranch>
+  <JoinDoPuInWs>true</JoinDoPuInWs>
+  <IncludeFinalSolution>true</IncludeFinalSolution>
+  <FinalSolutionIncludedInNewBranch>true</FinalSolutionIncludedInNewBranch>
+  <IncludeFinalCandidates>true</IncludeFinalCandidates>
+  <FinalCandidatesIncludedOnlyOnce>false</FinalCandidatesIncludedOnlyOnce>
+  <OnlyBestFinalCandidates>true</OnlyBestFinalCandidates>
+  <OnlyBestFinalCandidatesNo>6</OnlyBestFinalCandidatesNo>
+  <IsSingleL>false</IsSingleL>
+  <FirstDropHasHighPriority>false</FirstDropHasHighPriority>
+  <FirstDropHasHighPriorityForMultipleUlds>false</FirstDropHasHighPriorityForMultipleUlds>
+  <IsMultithreading>true</IsMultithreading>
+  <NoOfThread>2</NoOfThread>
+  <ByFactorOf>1</ByFactorOf>
+  <AutoByFactorOf>true</AutoByFactorOf>
+  <MultithreadMinimumDepth>10</MultithreadMinimumDepth>
+  <MDDToByFactor>6</MDDToByFactor>
+  <MDDExtraToApplyThreadSleep>2</MDDExtraToApplyThreadSleep>
+  <MaxNodesEvalSpeed>1000000</MaxNodesEvalSpeed>
+  <AbortionFactor>0.75</AbortionFactor>
+</RouteFinderSettings>

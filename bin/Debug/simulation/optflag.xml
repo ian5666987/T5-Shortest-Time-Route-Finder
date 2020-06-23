@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OptFlagList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OptFlag>
+    <EqpId>ETV1</EqpId>
+    <CmdStat>Terminated</CmdStat>
+  </OptFlag>
+  <OptFlag>
+    <EqpId>ETV2</EqpId>
+    <CmdStat>Terminated</CmdStat>
+  </OptFlag>
+  <OptFlag>
+    <EqpId>ETV3</EqpId>
+    <CmdStat>Completed</CmdStat>
+  </OptFlag>
+</OptFlagList>

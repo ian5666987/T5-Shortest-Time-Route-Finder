@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ActInitialState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InitialX>18</InitialX>
+  <InitialZ>68</InitialZ>
+  <LeftActs />
+  <InitialDateTime>2020-06-23T18:06:02.0425583+08:00</InitialDateTime>
+</ActInitialState>

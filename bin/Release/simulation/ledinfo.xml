@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LedInfoReducedList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LedInfoReduced>
+    <LedId>ETV1</LedId>
+    <LedEnd>ETV12</LedEnd>
+    <AreaId>Z</AreaId>
+    <EqpId>ETV1</EqpId>
+    <ULD>ULD1</ULD>
+  </LedInfoReduced>
+  <LedInfoReduced>
+    <LedId>ETV2</LedId>
+    <LedEnd>ETV22</LedEnd>
+    <AreaId>Z</AreaId>
+    <EqpId>ETV2</EqpId>
+  </LedInfoReduced>
+  <LedInfoReduced>
+    <LedId>ETV3</LedId>
+    <LedEnd>ETV32</LedEnd>
+    <AreaId>Z</AreaId>
+    <EqpId>ETV3</EqpId>
+  </LedInfoReduced>
+</LedInfoReducedList>

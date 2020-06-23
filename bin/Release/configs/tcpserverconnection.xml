@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCPIPServerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FindLocalIP>true</FindLocalIP>
+  <IPV4Address>127.0.0.1</IPV4Address>
+  <PortNo>51293</PortNo>
+  <EnableHeartBeat>false</EnableHeartBeat>
+  <MinimumHeartBeatRate>100</MinimumHeartBeatRate>
+  <AutoOpen>false</AutoOpen>
+  <MaxPortNo>99999</MaxPortNo>
+  <MaxNoOfPendingClient>50</MaxNoOfPendingClient>
+  <HeartBeatRate>1000</HeartBeatRate>
+</TCPIPServerSettings>

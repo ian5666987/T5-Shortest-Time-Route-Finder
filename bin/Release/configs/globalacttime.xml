@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalActTimeSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AliasActTimePairs>
+    <AliasActTimePair Alias="Air-PU-Wokstation" ActTime="350" />
+    <AliasActTimePair Alias="Land-PU-Workstation" ActTime="450" />
+    <AliasActTimePair Alias="Air-DO-Workstation" ActTime="575" />
+    <AliasActTimePair Alias="Land-DO-Workstation" ActTime="625" />
+    <AliasActTimePair Alias="Air-PU-Lane" ActTime="200" />
+    <AliasActTimePair Alias="Land-PU-Lane" ActTime="300" />
+    <AliasActTimePair Alias="Air-DO-Lane" ActTime="425" />
+    <AliasActTimePair Alias="Land-DO-Lane" ActTime="475" />
+  </AliasActTimePairs>
+</GlobalActTimeSettings>

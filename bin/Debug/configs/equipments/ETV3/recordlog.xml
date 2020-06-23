@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordLogSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Track>true</Track>
+  <Memory>false</Memory>
+  <MaxRecord>50000</MaxRecord>
+  <ShowLog>false</ShowLog>
+  <UpdateOnFinished>false</UpdateOnFinished>
+</RecordLogSettings>

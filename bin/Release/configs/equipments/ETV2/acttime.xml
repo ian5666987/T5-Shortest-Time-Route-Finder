@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XTimePerLaneIn100ms>22</XTimePerLaneIn100ms>
+  <ZTimePerLevelIn100ms>115</ZTimePerLevelIn100ms>
+  <XExtraTimeIn100ms>20</XExtraTimeIn100ms>
+  <ZExtraTimeIn100ms>40</ZExtraTimeIn100ms>
+</TimeSettings>

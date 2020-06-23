@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T5STAppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EquipmentIDList>
+    <EquipmentID>ETV1</EquipmentID>
+    <EquipmentID>ETV2</EquipmentID>
+    <EquipmentID>ETV3</EquipmentID>
+  </EquipmentIDList>
+  <SearchAllEquipments>false</SearchAllEquipments>
+  <MaxParallelSearch>1</MaxParallelSearch>
+  <ShowLogBox>true</ShowLogBox>
+  <TrackResourcesUsage>false</TrackResourcesUsage>
+  <LockTable>false</LockTable>
+  <AutoExecutionCheck>true</AutoExecutionCheck>
+  <AutoPriorityAssignment>true</AutoPriorityAssignment>
+  <IsStrongCheck>false</IsStrongCheck>
+  <ExecutionCheckProcedure>PA_MOOPT.EXEC_CHECK</ExecutionCheckProcedure>
+  <PriorityAssignmentProcedure>PA_MOOPT.PRIO_RANK</PriorityAssignmentProcedure>
+  <TableTimerTickInMs>25</TableTimerTickInMs>
+  <DisplayTimerTickInMs>200</DisplayTimerTickInMs>
+  <Mode>Manual</Mode>
+</T5STAppSettings>

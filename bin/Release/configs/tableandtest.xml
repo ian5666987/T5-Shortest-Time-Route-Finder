@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T5TableAndTest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TableNameAliases>
+    <TableName Alias="Info" Name="VW_MOINFO" />
+    <TableName Alias="OptFlag" Name="OPTFLAG" />
+    <TableName Alias="LED" Name="LEDINFO" />
+    <TableName Alias="LED_S" Name="LEDINFO" />
+    <TableName Alias="EQP" Name="EQPINFO" />
+    <TableName Alias="Solution" Name="OPTSOLUTION" />
+  </TableNameAliases>
+  <DisplayLimit>1000</DisplayLimit>
+  <ShowTableView>true</ShowTableView>
+  <AddIndex>false</AddIndex>
+  <UseFixedDateTime>false</UseFixedDateTime>
+  <FixedDateTime>2020-06-23T15:00:04.8040486+08:00</FixedDateTime>
+</T5TableAndTest>

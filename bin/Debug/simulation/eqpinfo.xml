@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EqpInfoReducedList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EqpInfoReduced>
+    <EqpId>ETV1</EqpId>
+    <EqpTyp>ETV</EqpTyp>
+    <CtrlMod>69</CtrlMod>
+    <KeySwitch>65</KeySwitch>
+    <AvailStat>true</AvailStat>
+    <XPos>60</XPos>
+    <ZPos>65</ZPos>
+    <ConnStat>true</ConnStat>
+  </EqpInfoReduced>
+  <EqpInfoReduced>
+    <EqpId>ETV2</EqpId>
+    <EqpTyp>ETV</EqpTyp>
+    <CtrlMod>69</CtrlMod>
+    <KeySwitch>65</KeySwitch>
+    <AvailStat>true</AvailStat>
+    <XPos>45</XPos>
+    <ZPos>65</ZPos>
+    <ConnStat>true</ConnStat>
+  </EqpInfoReduced>
+  <EqpInfoReduced>
+    <EqpId>ETV3</EqpId>
+    <EqpTyp>ETV</EqpTyp>
+    <CtrlMod>69</CtrlMod>
+    <KeySwitch>65</KeySwitch>
+    <AvailStat>true</AvailStat>
+    <XPos>18</XPos>
+    <ZPos>68</ZPos>
+    <ConnStat>true</ConnStat>
+  </EqpInfoReduced>
+</EqpInfoReducedList>
